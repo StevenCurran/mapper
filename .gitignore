@@ -1,0 +1,13 @@
+# Project exclude paths
+/.gradle/
+/build/
+/out/
+/out/production/classes/
+/.idea/$CACHE_FILE$
+/.idea/.gitignore
+/.idea/compiler.xml
+/.idea/gradle.xml
+/.idea/jarRepositories.xml
+/.idea/misc.xml
+/.idea/uiDesigner.xml
+/.idea/vcs.xml
